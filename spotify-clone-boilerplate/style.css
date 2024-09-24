@@ -1,0 +1,38 @@
+*{
+    background: #000;
+}
+.left{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    align-self: flex-end;
+    margin: -8px;
+}
+.Home{
+    width: 35px;
+    padding-top: 20px;
+
+}
+.Home:hover{
+    cursor: pointer;
+    color: grey;
+}
+Search{
+    width: 35px;
+    padding-top: 20px;
+
+}
+.Search:hover{
+    cursor: pointer;
+    color: grey;
+}
+Your Library{
+    width: 35px;
+    padding-top: 20px;
+
+}
+.Your Library:hover{
+    cursor: pointer;
+    color: grey;
+}
